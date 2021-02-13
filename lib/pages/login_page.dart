@@ -69,7 +69,7 @@ class _LoginPageState extends State<LoginPage> {
                     Icons.done,
                     color: Colors.white,
                   ) : Text("Login",
-                    style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold, fontSize: 18),),
+                    style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold, fontSize: 20),),
                   decoration: BoxDecoration(
                       color: Colors.deepPurple,
                       // shape: changeButton ? BoxShape.circle : BoxShape.rectangle,
