@@ -6,8 +6,6 @@ import 'package:flutter_demo/models/catalog.dart';
 import 'package:flutter_demo/widgets/drawer.dart';
 import 'package:flutter_demo/widgets/item_widget.dart';
 
-// day 11 : BuildContext, 3 Trees & Constraints
-
 class HomePage extends StatefulWidget {
 
   @override
